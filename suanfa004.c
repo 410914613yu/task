@@ -1,3 +1,4 @@
+//
 #include<stdio.h>
 #include<string.h>
 char a[30],b[30];
