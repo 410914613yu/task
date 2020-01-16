@@ -1,4 +1,4 @@
-
+//用递归调用实现快速排序算法
 #include<stdio.h>
 #include<stdlib.h>
  
