@@ -37,4 +37,5 @@ int main()
         bag(n, m);  
         free(out);  
         return 0;  
-}  
+;
+        
