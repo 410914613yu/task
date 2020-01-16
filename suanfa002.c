@@ -1,3 +1,4 @@
+//设计算法从给定的n个数中，寻找最小的K个数（递归）
 #include<stdio.h>
 #include<stdlib.h>
  
@@ -30,4 +31,4 @@ int main(){
    printf("%d\n",count);
    return 0;
 }
-/
+
